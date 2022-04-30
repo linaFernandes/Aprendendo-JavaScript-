@@ -1,4 +1,4 @@
-# Aprendendo-JavaScript:sparkles :
-Aulas no canal Programming with Mosh
+# Aprendendo-JavaScript :sparkles:
 
+Introdução aos conceitos de JS
  
